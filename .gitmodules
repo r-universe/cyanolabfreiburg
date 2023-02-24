@@ -8,3 +8,8 @@
 	url = https://github.com/cyanolabfreiburg/rifi
 	shallow = true
 	registered = true
+[submodule "rifiComparative"]
+	path = rifiComparative
+	url = https://github.com/cyanolabfreiburg/rificomparative
+	shallow = true
+	registered = true
